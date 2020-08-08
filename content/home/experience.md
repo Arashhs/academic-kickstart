@@ -18,27 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Software R&D Intern"
+  company = "Gam Electronics Co."
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Tehran"
+  date_start = "2020-07-11"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
+* Designing and building automated business processes
+* Participating in the development of complex business processes
+* Taking the high-level requirements and transforming them into functional specifications with detailed
+ development plans
+* Preparing and executing User Acceptance Testing (UAT) and developing improvement plans as well as
+taking accountability in fixing identified errors
+* Creating Web Forms for clients
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research: Design and Analysis of a Secure Smart Card Based Healthcare System"
+  company = "Research and Technical Presentation Course - Amirkabir University of Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tehran"
+  date_start = "2020-02-20"
+  date_end = "2020-08-11"
+  description = """
+  The research contains reviewing the architecture of smart cards and security threats using them in an
+Electronic Healthcare System. A functional system architecture has been proposed to address these security
+threats which specifies a smart-card-based authentication method. The research has been done for my
+Research and Technical Presentation course (including both Written and Oral Presentations).
+
+  """
+
+
+
 
 +++

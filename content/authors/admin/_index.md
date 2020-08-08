@@ -23,10 +23,12 @@ bio: I am a self-motivated university student working towards a B.Sc degree in C
 
 interests:
 - Software Engineering
+- Specification, Verification and Validation of Software Systems
+- Recommender Systems
 - Machine Learning
+- Reinforcement Learning
+- Natural Language Processing
 - Operating Systems
-- Programming Languages
-- Statistics and Data Science
 
 education:
   courses:
@@ -44,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:hajisafiarash@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:hajisafi@aut.ac.ir"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Arashhs
@@ -76,4 +78,6 @@ user_groups:
 
 Arash is a self-motivated final-year undergraduate student pursuing a B.Sc degree in Computer Engineering at the Amirkabir University of Technology (Tehran Polytechnic).
 
-His main areas of interest include Software Engineering, Machine Learning, Operating Systems, and Programming Languages. He also has strong math and statistical skills and the ability to apply those skills to real-world problems.
+His main areas of interest include Software Engineering, Machine Learning and Operating Systems. He also has strong math and statistical skills and the ability to apply those skills to real-world problems.
+
+You can check out his {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/transcript.pdf" "newtab" %}}Transcript{{% /staticref %}}.
