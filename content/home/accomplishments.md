@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Kangourou sans Frontières"
-  organization_url = "http://www.aksf.org/"
+  organization_url = "http://www.aksf.org/history.xhtml"
   title = ""
   url = ""
   certificate_url = "files/Mathematical Kangaroo certificate of honor.jpg"

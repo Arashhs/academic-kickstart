@@ -47,6 +47,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:hajisafi@aut.ac.ir"  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope-square
+  icon_pack: fas
+  link: "mailto:hajisafiarash@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/Arashhs

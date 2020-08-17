@@ -7,6 +7,10 @@ weight = 40  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
+columns = 1
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["80px", "0", "80px", "0"]
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -48,7 +52,13 @@ taking accountability in fixing identified errors
 Electronic Healthcare System. A functional system architecture has been proposed to address these security
 threats which specifies a smart-card-based authentication method. The research has been done for my
 Research and Technical Presentation course (including both Written and Oral Presentations).
-
+<br/>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Hajisafi-Design and Analysis of a Secure Smart Card Based Healthcare System-report.pdf" target="_blank" rel="noopener">
+  Final Report PDF
+</a>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Hajisafi-Design and Analysis of a Secure Smart Card Based Healthcare System-report.pptx" target="_blank" rel="noopener">
+  Final Presentation Powerpoint
+</a>
   """
 
 
