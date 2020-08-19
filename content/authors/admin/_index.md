@@ -80,8 +80,8 @@ user_groups:
 - Visitors
 ---
 
-Arash is a final-year undergraduate student pursuing a B.Sc degree in Computer Engineering at the Amirkabir University of Technology (Tehran Polytechnic).
+I am Arash, a final-year undergraduate student pursuing a B.Sc degree in Computer Engineering at the Amirkabir University of Technology (Tehran Polytechnic).
 
-His main areas of interest include Software Engineering and Machine Learning. He also has strong mathematical  and statistical skills and the ability to apply those skills to real-world problems.
+My main areas of interest include Software Engineering and Machine Learning. I also have strong mathematical and statistical skills and the ability to apply those skills to real-world problems.
 
-You can check out his {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/transcript.pdf" "newtab" %}}Transcript{{% /staticref %}}.
+You can check out my {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/transcript.pdf" "newtab" %}}Transcript{{% /staticref %}}.
