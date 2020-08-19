@@ -24,6 +24,7 @@ bio: I am a final-year undergraduate university student working towards a B.Sc d
 interests:
 - Software Engineering
 - Software Testing and Maintenance
+- Program Analysis
 - Machine Learning
 - Reinforcement Learning
 - Natural Language Processing
