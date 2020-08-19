@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Battleship Game"
-summary: "Everyone's favorite Battle Ship Game implemented in Java"
+summary: "Everyone's favorite Battleship Game implemented in Java"
 authors: []
 tags: ["3"]
 categories: []
@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-I've implemented everyone's favorite Battle Ship Game in Java for my Advanced Programming course. The game supports both single-player and local multiplayer modes and is console-based.
+I've implemented everyone's favorite Battleship Game in Java for my Advanced Programming course. The game supports both single-player and local multiplayer modes and is console-based.
 
 Here's some gameplay footage: (Click to open in full size on a new tab)
 <a href="gif.gif" target="_blank">

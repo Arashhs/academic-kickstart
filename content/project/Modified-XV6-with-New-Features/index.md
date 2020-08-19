@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Modified Xv6 With New Features"
-summary: "Adding system calls and implementing different scheduling policies to Xv6"
+summary: "Adding system calls and implementing different scheduling policies in Xv6"
 authors: []
 tags: ["2"]
 categories: []
