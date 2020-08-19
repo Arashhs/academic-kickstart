@@ -37,26 +37,23 @@ date_format = "Jan 2006"
  development plans
 * Preparing and executing User Acceptance Testing (UAT) and developing improvement plans as well as
 taking accountability in fixing identified errors
-* Creating Web Forms for clients
+* Creating Web Forms for the given specifications
   """
 
 [[experience]]
-  title = "Research: Design and Analysis of a Secure Smart Card Based Healthcare System"
-  company = "Research and Technical Presentation Course - Amirkabir University of Technology"
+  title = "Research: Design and Analysis of a Secure Smart-Card-Based Healthcare System"
+  company = "Research Method and Technical Presentation Course - Amirkabir University of Technology"
   company_url = ""
   location = "Tehran"
   date_start = "2020-02-20"
   date_end = "2020-08-11"
   description = """
-  The research contains reviewing the architecture of smart cards and security threats using them in an
-Electronic Healthcare System. A functional system architecture has been proposed to address these security
-threats which specifies a smart-card-based authentication method. The research has been done for my
-Research and Technical Presentation course (including both Written and Oral Presentations).
+  The research consists of 2 main parts, the investigation of smart card architectures and modeling security threats in an Electronic Healthcare System. A functional system architecture has been proposed to address these security threats which specifies a smart-card-based authentication method. The research was conducted in the Spring and Summer of 2020 for my Research Method and Technical Presentation course (which includes both Written and Oral Presentations).
 <br/>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Hajisafi-Design and Analysis of a Secure Smart Card Based Healthcare System-report.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/Hajisafi-Design and Analysis of a Secure Smart Card Based Healthcare System-report.pdf" target="_blank" rel="noopener">
   Final Report PDF
 </a>
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Hajisafi-Design and Analysis of a Secure Smart Card Based Healthcare System-report.pptx" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/files/Hajisafi-Design and Analysis of a Secure Smart Card Based Healthcare System-report.pptx" target="_blank" rel="noopener">
   Final Presentation Powerpoint
 </a>
   """

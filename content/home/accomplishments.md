@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = "Received Full Tuition Waiver Scholarship from Amirkabir University of Technology."
 
 [[item]]
-  organization = "National Organization for Educational Testing"
+  organization = "National Organization of Educational Testing"
   organization_url = "http://www.sanjesh.org/en/aboutus.aspx"
   title = ""
   url = ""

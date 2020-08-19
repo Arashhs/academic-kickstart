@@ -2,7 +2,7 @@
 # Teaching
 widget: blank
 headless: true
-title: Extra-Curricular Activity
+title: Extra-Curricular Activities
 active: true
 weight: "65"
 design:

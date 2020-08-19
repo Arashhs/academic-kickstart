@@ -18,26 +18,27 @@ organizations:
   url: "https://aut.ac.ir/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a self-motivated university student working towards a B.Sc degree in Computer Engineering at the Amirkabir University of Technology.
-    I have excellent math and programming skills and my research interests include Software Engineering, Machine Learning, Operating Systems, Programming Languages, and Statistics and Data Science.
+bio: I am a final-year undergraduate university student working towards a B.Sc degree in Computer Engineering at the Amirkabir University of Technology.
+    I have strong mathematical and programming skills and my research interests include Software Engineering and Machine Learning.
 
 interests:
 - Software Engineering
-- Specification, Verification and Validation of Software Systems
-- Recommender Systems
+- Software Testing and Maintenance
 - Machine Learning
 - Reinforcement Learning
 - Natural Language Processing
-- Operating Systems
 
 education:
   courses:
   - course: BSc in Computer Engineering
     institution: Amirkabir University of Technology, CGPA 19.07 / 20
     year: 2017 - Present
+  - course: Pre-University in Mathematics and Physics
+    institution: Khaje Nasir High School, GPA 19.92 / 20
+    year: 2016 - 2017
   - course: High School Diploma in Mathematics and Physics
     institution: Khaje Nasir High School, GPA 19.89 / 20
-    year: 2013 - 2017
+    year: 2013 - 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -79,8 +80,8 @@ user_groups:
 - Visitors
 ---
 
-Arash is a self-motivated final-year undergraduate student pursuing a B.Sc degree in Computer Engineering at the Amirkabir University of Technology (Tehran Polytechnic).
+Arash is a final-year undergraduate student pursuing a B.Sc degree in Computer Engineering at the Amirkabir University of Technology (Tehran Polytechnic).
 
-His main areas of interest include Software Engineering, Machine Learning and Operating Systems. He also has strong math and statistical skills and the ability to apply those skills to real-world problems.
+His main areas of interest include Software Engineering and Machine Learning. He also has strong mathematical  and statistical skills and the ability to apply those skills to real-world problems.
 
 You can check out his {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/transcript.pdf" "newtab" %}}Transcript{{% /staticref %}}.

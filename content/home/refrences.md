@@ -18,13 +18,13 @@ design:
 
 [Department of Computer Engineering](https://ce.aut.ac.ir/page/3531/professors), Amirkabir University of Technology
 <br/>Email: rasti@aut.ac.ir
-<br/>Homepage: [Link](https://scholar.google.com/citations?user=zb8pjMYAAAAJ&hl=en)
+<br/>Homepage: [Link](https://aut.ac.ir/cv/2423/Mehdi-Rasti?slc_lang=en&&cv=2423&mod=scv)
 
 ### Amir Kalbasi, Assistant Professor
 
 [Department of Computer Engineering](https://ce.aut.ac.ir/page/3531/professors), Amirkabir University of Technology
 <br/>Email: kalbasi@aut.ac.ir
-<br/>Homepage: [Link](https://scholar.google.com/citations?user=oISEZIUAAAAJ&hl=en)
+<br/>Homepage: [Link](https://aut.ac.ir/cv/2241/Amir-Kalbasi?slc_lang=en&&cv=2241&mod=scv)
 
 ### Nastooh Taheri Javan, Lecturer and Postdoctoral Researcher
 
