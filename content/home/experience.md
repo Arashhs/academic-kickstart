@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Tehran"
   date_start = "2020-07-11"
-  date_end = ""
+  date_end = "2020-09-20"
   description = """
   Responsibilities include:
 

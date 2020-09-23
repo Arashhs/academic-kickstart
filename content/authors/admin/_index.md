@@ -69,7 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon : cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/CV-Arash-Hajisafi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -85,4 +85,4 @@ I am Arash, a final-year undergraduate student pursuing a B.Sc degree in Compute
 
 My main areas of interest include Software Engineering and Machine Learning. I also have strong mathematical and statistical skills and the ability to apply those skills to real-world problems.
 
-You can check out my {{% staticref "files/cv.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/transcript.pdf" "newtab" %}}Transcript{{% /staticref %}}.
+You can check out my {{% staticref "files/CV-Arash-Hajisafi.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/Transcript-Arash-Hajisafi.pdf" "newtab" %}}Transcript{{% /staticref %}}.
