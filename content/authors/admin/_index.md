@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a final-year undergraduate university student working towards a B.Sc degree in Computer Engineering at the Amirkabir University of Technology.
-    I have strong mathematical and programming skills and my research interests include Software Engineering and Machine Learning.
+    I have strong mathematical and programming skills and my research interests include Software Engineering and Machine Learning. </p>
 
 interests:
 - Software Engineering
@@ -80,9 +80,20 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+<p style='text-align: justify;'>
 I am Arash, a final-year undergraduate student pursuing a B.Sc degree in Computer Engineering at the Amirkabir University of Technology (Tehran Polytechnic).
+</p>
 
+<p style='text-align: justify;'>
 My main areas of interest include Software Engineering and Machine Learning. I also have strong mathematical and statistical skills and the ability to apply those skills to real-world problems.
+</p>
 
 You can check out my {{% staticref "files/CV-Arash-Hajisafi.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/Transcript-Arash-Hajisafi.pdf" "newtab" %}}Transcript{{% /staticref %}}.
+
+<p style='text-align: justify;'>
+
+<p style='text-align: justify;'><b>
+<span style="color:red">
+Update (October 7, 2020):</span> I have just received my IELTS test results after submitting a remark request: <br/>
+Overall Band Score: 8 (Listening: 8.5, Reading: 8.5, Writing: 7, Speaking: 7)
+</b>
