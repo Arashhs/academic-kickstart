@@ -32,7 +32,7 @@ interests:
 education:
   courses:
   - course: BSc in Computer Engineering
-    institution: Amirkabir University of Technology, CGPA 19.07 / 20
+    institution: Amirkabir University of Technology, CGPA 19.08 / 20
     year: 2017 - Present
   - course: Pre-University in Mathematics and Physics
     institution: Khaje Nasir High School, GPA 19.92 / 20
@@ -96,4 +96,10 @@ You can check out my {{% staticref "files/CV-Arash-Hajisafi.pdf" "newtab" %}}CV{
 <span style="color:red">
 Update (October 7, 2020):</span> I have just received my IELTS test results after submitting a remark request: <br/>
 Overall Band Score: 8 (Listening: 8.5, Reading: 8.5, Writing: 7, Speaking: 7)
+</b>
+
+<p style='text-align: justify;'><b>
+<span style="color:red">
+Update (October 19, 2020):</span> I have just received my TOEFL test results: <br/>
+Total Score: 106 (Reading: 30, Listening: 26, Writing: 28, Speaking: 22)
 </b>
