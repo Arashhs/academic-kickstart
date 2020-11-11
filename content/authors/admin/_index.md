@@ -21,13 +21,21 @@ organizations:
 bio: I am a final-year undergraduate university student working towards a B.Sc degree in Computer Engineering at the Amirkabir University of Technology.
     I have strong mathematical and programming skills and my research interests include Software Engineering and Machine Learning. </p>
 
+# interests:
+# - Software Engineering
+# - Software Testing and Maintenance
+# - Program Analysis
+# - Machine Learning
+# - Reinforcement Learning
+# - Natural Language Processing
+
 interests:
-- Software Engineering
-- Software Testing and Maintenance
-- Program Analysis
-- Machine Learning
-- Reinforcement Learning
-- Natural Language Processing
+ - Data Management
+ - Machine Learning
+ - Operating Systems
+ - Software Engineering
+
+
 
 education:
   courses:
@@ -67,9 +75,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon : cv
-  icon_pack: ai
-  link: files/CV-Arash-Hajisafi.pdf
+# - icon : cv
+#   icon_pack: ai
+#   link: files/CV-Arash-Hajisafi.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -88,7 +96,9 @@ I am Arash, a final-year undergraduate student pursuing a B.Sc degree in Compute
 My main areas of interest include Software Engineering and Machine Learning. I also have strong mathematical and statistical skills and the ability to apply those skills to real-world problems.
 </p>
 
-You can check out my {{% staticref "files/CV-Arash-Hajisafi.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/Transcript-Arash-Hajisafi.pdf" "newtab" %}}Transcript{{% /staticref %}}.
+<!-- You can check out my {{% staticref "files/CV-Arash-Hajisafi.pdf" "newtab" %}}CV{{% /staticref %}} and {{% staticref "files/Transcript-Arash-Hajisafi.pdf" "newtab" %}}Transcript{{% /staticref %}}. !-->
+
+You can check out my {{% staticref "files/Transcript-Arash-Hajisafi.pdf" "newtab" %}}Transcript{{% /staticref %}}.
 
 <p style='text-align: justify;'>
 
