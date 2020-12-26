@@ -4,7 +4,7 @@
 title: "JDM"
 summary: "A GUI Java Download Manager with queueing support"
 authors: []
-tags: ["1"]
+tags: ["2"]
 categories: []
 date: 2020-08-17T03:12:21+04:30
 

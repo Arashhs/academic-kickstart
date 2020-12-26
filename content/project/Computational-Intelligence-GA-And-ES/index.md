@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Elevator Circuit"
-summary: "An elevator circuit designed and implemented in Verilog for the final project of my Logic Circuits course"
+title: "Computational Intelligence Programming"
+summary: "Solving NP-Complete problems using Genetic Algorithms and Evolution Strategy"
 authors: []
-tags: ["4"]
+tags: ["1"]
 categories: []
-date: 2020-08-19T05:00:44+04:30
+date: 2020-12-26T05:49:49+03:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Arashhs/Logic-Circuits-Course-Final-Project-Verilog"
+external_link: "https://github.com/Arashhs/Computational-Intelligence-Programming-Task-1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

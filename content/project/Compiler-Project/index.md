@@ -4,7 +4,7 @@
 title: "Compiler Project"
 summary: "Principles of Compiler Design course project implemented using Bison and JFlex"
 authors: []
-tags: ["2"]
+tags: ["3"]
 categories: []
 date: 2020-08-19T02:29:57+04:30
 
