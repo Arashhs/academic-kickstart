@@ -4,7 +4,7 @@
 title: "That's MyTable V2"
 summary: "Restaurant Table Booking and Food Reservation Web Application Developed Using Java, Spring MVC, Hibernate, and Maven"
 authors: []
-tags: [Java, Spring MVC, Hibernate, Maven, "1"]
+tags: [Java, Spring MVC, Hibernate, Maven, "4"]
 categories: []
 date: 2020-08-18T03:42:44+04:30
 
