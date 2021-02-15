@@ -40,7 +40,7 @@ interests:
 education:
   courses:
   - course: BSc in Computer Engineering
-    institution: Amirkabir University of Technology, CGPA 19.08 / 20
+    institution: Amirkabir University of Technology, CGPA 19.17 / 20
     year: 2017 - Present
   - course: Pre-University in Mathematics and Physics
     institution: Khaje Nasir High School, GPA 19.92 / 20
@@ -104,12 +104,18 @@ You can check out my {{% staticref "files/Transcript-Arash-Hajisafi.pdf" "newtab
 
 <p style='text-align: justify;'><b>
 <span style="color:red">
-Update (October 7, 2020):</span> I have just received my IELTS test results after submitting a remark request: <br/>
-Overall Band Score: 8 (Listening: 8.5, Reading: 8.5, Writing: 7, Speaking: 7)
+Update (February 16, 2021):</span> I just received my grades for the Fall 2020 semester; I have received a GPA of 19.71/20 (4/4) for this semester, and my cumulative GPA increased from 19.08/20 to 19.17/20! I have uploaded an updated version of my {{% staticref "files/Transcript-Arash-Hajisafi.pdf" "newtab" %}}transcript{{% /staticref %}}.
 </b>
+
 
 <p style='text-align: justify;'><b>
 <span style="color:red">
 Update (October 19, 2020):</span> I have just received my TOEFL test results: <br/>
 Total Score: 106 (Reading: 30, Listening: 26, Writing: 28, Speaking: 22)
+</b>
+
+<p style='text-align: justify;'><b>
+<span style="color:red">
+Update (October 7, 2020):</span> I have just received my IELTS test results after submitting a remark request: <br/>
+Overall Band Score: 8 (Listening: 8.5, Reading: 8.5, Writing: 7, Speaking: 7)
 </b>
