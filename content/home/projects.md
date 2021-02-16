@@ -84,3 +84,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<div style="text-align: center;">
+Please visit my <a href="https://github.com/Arashhs?tab=repositories">GitHub profile</a> to find my latest projects.
+</div>
