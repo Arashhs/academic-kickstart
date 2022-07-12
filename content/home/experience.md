@@ -37,7 +37,7 @@ experience:
 
       ##### W4H: Wearables for Health and Disease Knowledge
 
-      * In this project, we are building an open-source toolkit to enable health facilities efficiently store, analyze, and visualize real-time wearable data from heterogeneous sources (e.g., Fitbit, Garmin, Apple Watch) under a unified data format that we are developing, which we call **GeoMTS** (Georeferenced Multivariate Time Series)
+      * In this project, we are building an open-source toolkit to enable health facilities efficiently store, analyze, and visualize real-time wearable data from heterogeneous sources (e.g., Fitbit, Garmin, Apple Watch) under a unified data format that we are developing
       * We are developing a layered system architecture to separate the data engineering, data analysis, and data visualization tasks
       * We have utilized big data frameworks such as Spark and Kafka to meet the scalability and reliability requirements of our system
   - title: "Software R&D Intern"
