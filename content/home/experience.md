@@ -30,16 +30,16 @@ experience:
     date_start: "2022-01-01"
     date_end: ""
     description: |
-      ##### Accurate Multivariate Time-Series Forecasting of POI Visits Numbers
+      ##### Spectral-Temporal Graph Neural Network for Forecasting Visiting Patterns
 
-      * Building a state-of-the-art GNN-based forecasting model to predict the hourly number of visits to 500 most visited POIs in Houston
-      * More specifically, we are building our multivariate time-series forecasting model by applying Recurrent Neural Networks (RNNs) to capture the time dependencies within POIs and an attention-based mechanism to capture the inter-POI correlations. We further utilize Graph Neural Networks (GNNs) to learn new representations for POIs based on the derived intra- and inter-series correlations to be able to make accurate predictions
+      * Modeled the problem of predicting the hourly number of visits to Points of Interest (POIs) across the U.S. as a multivariate time-series forecasting task.
+      * Developed a novel **Graph Neural Network-based** forecasting architecture to capture the POI relationships based on their associated feature and temporal correlations to build a dynamic graph. The proposed model captures temporal intra- and inter-series correlations using a two-step **attention** mechanism. The generated graph is then fed to a GNN layer to build new representations for POIs and conduct the forecasting based on the learned latent representations.
 
       ##### W4H: Wearables for Health and Disease Knowledge
 
-      * In this project, we are building an open-source toolkit to enable health facilities efficiently store, analyze, and visualize real-time wearable data from heterogeneous sources (e.g., Fitbit, Garmin, Apple Watch) under a unified data format that we are developing
-      * We are developing a layered system architecture to separate the data engineering, data analysis, and data visualization tasks
-      * We have utilized big data frameworks such as Spark and Kafka to meet the scalability and reliability requirements of our system
+      * Building an open-source toolkit to enable health facilities efficiently store, analyze, and visualize real-time wearable data from heterogeneous sources (e.g., Fitbit, Garmin, Apple Watch) under a unified Geo-Referenced Multivariate Time-Series (GeoMTS) data format.
+      * Developed a layered system architecture to separate the data engineering, analysis, and visualization tasks.
+      * Utilized big data frameworks such as **Spark** and **Kafka** to meet the scalability and reliability requirements of the system.
   - title: "Software R&D Intern"
     company: "Gam Electronics Co."
     company_url: ""
@@ -49,13 +49,10 @@ experience:
     description: |
       **Responsibilities include:**
 
-      * Designing and building automated business processes
-      * Participating in the development of complex business processes
-      * Taking the high-level requirements and transforming them into functional specifications with detailed
-      development plans
-      * Preparing and executing User Acceptance Testing (UAT) and developing improvement plans as well as
-      taking accountability in fixing identified errors
-      * Creating Web Forms for the given specifications
+      * Designed and developed complex automated business processes.
+      * Took the high-level requirements and transformed them into functional specifications with detailed development plans.
+      * Prepared and executed User Acceptance Testing (UAT), developed improvement plans, and took accountability for fixing identified errors.
+      * Designed and developed web forms for the given specifications.
 
   - title: "Research: Design and Analysis of a Secure Smart-Card-Based Healthcare System"
     company: "Amirkabir University of Technology"
@@ -65,8 +62,8 @@ experience:
     date_start: "2020-02-20"
     date_end: "2020-08-11"
     description: |
-      The research consists of 2 main parts, the investigation of smart card architectures and modeling security threats in an Electronic Healthcare System. A functional system architecture has been proposed to address these security threats which specifies a smart-card-based authentication method. The research was conducted in the Spring and Summer of 2020 for my Research Method and Technical Presentation course (which includes both Written and Oral Presentations).
-
+      The research consists of 2 main parts, the investigation of smart card architectures and modeling security threats in an Electronic Healthcare System. A functional system architecture has been proposed to address these security threats which specifies a smart-card-based authentication method. The research was conducted in the Spring and Summer of 2020.
+      
   # - title: CEO
   #   company: GenCoin
   #   company_url: ''

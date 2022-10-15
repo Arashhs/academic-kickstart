@@ -54,7 +54,7 @@ item:
     certificate_url: ""
     date_start: "2021-09-21"
     date_end: ""
-    description: "Ranked Within the Top 5% of My Class in Computer Engineering Department with a CGPA of 19.28 (out of 20)."
+    description: "Ranked Within the Top 5% of My Class in Computer Engineering Department at Amirkabir University of Technology with a GPA of 19.28 (out of 20)."
     
 
   - organization: "Amirkabir University of Technology"
@@ -74,7 +74,7 @@ item:
     certificate_url: ""
     date_start: "2017-09-01"
     date_end: ""
-    description: "Achieved the Top 0.2% Place Among All Applicants in the Iranian University Entrance Exam (nearly 140000 applicants)."
+    description: "Achieved the 229<sup>th</sup> Place Among 140,000 Applicants in the Iranian University Entrance Exam."
   
 
   - organization: "Kangourou sans Frontières"

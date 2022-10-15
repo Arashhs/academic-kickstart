@@ -14,12 +14,10 @@ organizations:
     url: https://www.usc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently working as a PhD Research Assistant at InfoLab, Computer Science Department at the University of Southern California under the supervision of Prof. Cyrus Shahabi. My research interests include Machine Learning, Deep Learning, Graph Neural Networks, and Spatio-Temporal Data Management and Forecasting.
+bio: I am currently working as a PhD Research Assistant at InfoLab, Computer Science Department at the University of Southern California under the supervision of Prof. Cyrus Shahabi. My research interests include Graph Neural Networks and Spatio-Temporal Data Management and Forecasting.
 
 # Interests to show in About widget
 interests:
-  - Machine Learning
-  - Deep Learning
   - Graph Neural Networks
   - Spatio-Temporal Forecasting
   - Spatio-Temporal Data Management and Engineering
@@ -72,7 +70,7 @@ highlight_name: true
 Hi! My name is Arash. I am currently working as a PhD Research Assistant at <b><a href='https://infolab.usc.edu/'>InfoLab</a></b>, <b>Computer Science Department</b> at the <b>University of Southern California</b> under the supervision of <b><a href='https://infolab.usc.edu/Shahabi/'>Prof. Cyrus Shahabi</a></b>. 
 </p>
 
-My research interests include **Machine Learning**, **Deep Learning**, **Graph Neural Networks**, and **Spatio-Temporal Data Management and Forecasting**.
+My research interests include **Graph Neural Networks** and **Spatio-Temporal Data Management and Forecasting**.
 
 
 

@@ -51,7 +51,7 @@ subtitle = ""
 
 [cta]
   url = "#projects"
-  label = "Academic Projects"
+  label = "Projects"
   icon_pack = "fas"
   icon = "briefcase"
 +++
