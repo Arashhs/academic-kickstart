@@ -4,10 +4,8 @@
 title: Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest
   Visit Forecasting
 subtitle: ''
-summary: 'In this study, we address the challenge of accurately forecasting the number of visits to Points-of-Interest (POIs) in urban areas, with important implications for urban planning, public health, and social studies. Existing approaches often overlook the intricate multi-context correlations among POIs, limiting the accuracy of visit forecasting. To overcome this limitation, we propose the Busyness Graph Neural Network (BysGNN), a novel temporal graph neural network that effectively uncovers and learns the underlying multi-context correlations between POIs.
-
-
-BysGNN takes advantage of all available contextual information, including POI geocoordinates, semantics, and time-series data, to construct a comprehensive and accurate dynamic graph representation. By generating a graph that captures correlations between POIs at various levels, BysGNN reveals latent relationships between POIs, enabling more precise forecasting. The inferred expressive graph, referred to as the Busyness Graph, is then utilized in a Graph Neural Network (GNN) block to perform accurate visit forecasting, leveraging the flexibility and power of GNNs.'
+summary: '
+The study presents the Busyness Graph Neural Network (BysGNN), designed to forecast visits to urban Points-of-Interest (POIs). BysGNN uncovers multi-context correlations among POIs across temporal, spatial, and semantic dimensions, resulting in a comprehensive dynamic graph. This approach significantly improves forecasting accuracy over traditional methods, offering a deeper understanding of urban dynamics.'
 authors:
 - Arash Hajisafi
 - Haowen Lin
@@ -31,7 +29,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: true
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

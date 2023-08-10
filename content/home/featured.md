@@ -8,9 +8,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 42
 
-title: Featured Publications
+title: Featured Research
 subtitle: ''
 
 content:

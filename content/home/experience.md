@@ -31,13 +31,13 @@ experience:
     date_end: ""
     description: |
       #### Project Highlights
-      ##### W4H: Wearables for Health and Disease Knowledge
+      ##### [W4H: Wearables for Health and Disease Knowledge](http://bit.ly/w4h-usc)
 
       I am leading the development of an open-source toolkit to centralize real-time wearable data, aiming to improve healthcare data management.
 
       * Developed a unified Geo-Referenced Multivariate Time-Series (GeoMTS) format to integrate data from various sources.
       * Created scalable solutions using big data frameworks such as Spark and Kafka, and developed visualization dashboards for real-time analysis.
-      * This work has contributed to real-time outlier detection in healthcare data and supported the open-source community with custom tools.
+      * This work has contributed to real-time outlier detection in healthcare data and supported the open-source community with [**custom tools**](https://github.com/search?q=topic%3Aw4h+org%3AUSC-InfoLab&type=Repositories).
 
       ##### Accurate EEG Seizure Detection and Classification
 
@@ -47,8 +47,8 @@ experience:
       * This work contributes to further understanding and advancements in the field of medical diagnostics.
 
       
-      ##### Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting
-      
+      ##### [Accurate Point-of-Interest Visit Forecasting using GNNs](/publication/bysgnn/)
+
       Addressing the complex task of predicting visits to Points of Interest (POIs), I formulated the problem as a multivariate time-series forecasting challenge.
 
       * Proposed the Busyness Graph Neural Network (BysGNN), uncovering multi-context correlations for accurate forecasting.
