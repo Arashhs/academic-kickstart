@@ -30,16 +30,31 @@ experience:
     date_start: "2022-01-01"
     date_end: ""
     description: |
-      ##### Spectral-Temporal Graph Neural Network for Forecasting Visiting Patterns
-
-      * Modeled the problem of predicting the hourly number of visits to Points of Interest (POIs) across the U.S. as a multivariate time-series forecasting task.
-      * Developed a novel **Graph Neural Network-based** forecasting architecture to capture the POI relationships based on their associated feature and temporal correlations to build a dynamic graph. The proposed model captures temporal intra- and inter-series correlations using a two-step **attention** mechanism. The generated graph is then fed to a GNN layer to build new representations for POIs and conduct the forecasting based on the learned latent representations.
-
+      #### Project Highlights
       ##### W4H: Wearables for Health and Disease Knowledge
 
-      * Building an open-source toolkit to enable health facilities efficiently store, analyze, and visualize real-time wearable data from heterogeneous sources (e.g., Fitbit, Garmin, Apple Watch) under a unified Geo-Referenced Multivariate Time-Series (GeoMTS) data format.
-      * Developed a layered system architecture to separate the data engineering, analysis, and visualization tasks.
-      * Utilized big data frameworks such as **Spark** and **Kafka** to meet the scalability and reliability requirements of the system.
+      I am leading the development of an open-source toolkit to centralize real-time wearable data, aiming to improve healthcare data management.
+
+      * Developed a unified Geo-Referenced Multivariate Time-Series (GeoMTS) format to integrate data from various sources.
+      * Created scalable solutions using big data frameworks such as Spark and Kafka, and developed visualization dashboards for real-time analysis.
+      * This work has contributed to real-time outlier detection in healthcare data and supported the open-source community with custom tools.
+
+      ##### Accurate EEG Seizure Detection and Classification
+
+      I developed a GNN-based deep learning model to analyze brain correlations across spatial, semantic, and temporal dimensions using EEG signals.
+
+      * Utilized a dynamic graph that reflects dependencies in the brain for precise seizure classification.
+      * This work contributes to further understanding and advancements in the field of medical diagnostics.
+
+      
+      ##### Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting
+      
+      Addressing the complex task of predicting visits to Points of Interest (POIs), I formulated the problem as a multivariate time-series forecasting challenge.
+
+      * Proposed the Busyness Graph Neural Network (BysGNN), uncovering multi-context correlations for accurate forecasting.
+      * Integrated temporal, spatial, and semantic signals, achieving significant improvement in forecasting accuracy over existing models, thereby contributing to real-world applications.
+
+
   - title: "Software R&D Intern"
     company: "Gam Electronics Co."
     company_url: ""
@@ -49,10 +64,10 @@ experience:
     description: |
       **Responsibilities include:**
 
-      * Designed and developed complex automated business processes.
-      * Took the high-level requirements and transformed them into functional specifications with detailed development plans.
-      * Prepared and executed User Acceptance Testing (UAT), developed improvement plans, and took accountability for fixing identified errors.
-      * Designed and developed web forms for the given specifications.
+      * Engineered and implemented sophisticated automated business processes, utilizing cutting-edge technologies and methodologies to enhance efficiency and accuracy.
+      * Translated high-level requirements into comprehensive functional specifications, devising detailed development plans that aligned with strategic objectives and technical constraints.
+      * Orchestrated and executed rigorous User Acceptance Testing (UAT), employing systematic testing strategies to identify and rectify errors, demonstrating a commitment to quality and continuous improvement.
+      * Conceptualized, designed, and developed intricate web forms in accordance with given specifications, leveraging modern web technologies and best practices to ensure compliance with business requirements.
 
   - title: "Research: Design and Analysis of a Secure Smart-Card-Based Healthcare System"
     company: "Amirkabir University of Technology"

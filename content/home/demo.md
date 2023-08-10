@@ -50,10 +50,10 @@ subtitle = ""
  css_class = ""
 
 [cta]
-  url = "#projects"
-  label = "Projects"
+  url = "#publications"
+  label = "Publications"
   icon_pack = "fas"
-  icon = "briefcase"
+  icon = "book"
 +++
 
 PhD Candidate in Computer Science &middot; University of <br> Southern California <p style="margin-bottom:1pt;"></p>
