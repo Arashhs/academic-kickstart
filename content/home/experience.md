@@ -31,7 +31,7 @@ experience:
     date_end: ""
     description: |
       #### Project Highlights
-      ##### [W4H: Wearables for Health and Disease Knowledge](http://bit.ly/w4h-usc)
+      ##### [W4H: Wearables for Health and Disease Knowledge](https://usc-infolab.github.io/projects/W4H/)
 
       I am leading the development of an open-source toolkit to centralize real-time wearable data, aiming to improve healthcare data management.
 
