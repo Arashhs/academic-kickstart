@@ -21,7 +21,8 @@ marketing:
     description: 'Arash Hajisafi Personal Website.'
     twitter: ''
   analytics:
-    google_analytics: 'UA-122679278-2'
+    google_analytics: 'G-TDJR0P9405'
+    google_tag_manager: 'GTM-K3MXTCLT'
     baidu_tongji: ''
   verification:
     google: ''
