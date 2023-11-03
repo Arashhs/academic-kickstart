@@ -31,28 +31,41 @@ experience:
     date_end: ""
     description: |
       #### Project Highlights
-      ##### [W4H: Wearables for Health and Disease Knowledge](https://usc-infolab.github.io/projects/W4H/)
+      ##### [Wearables for Health (W4H) Toolkit](https://github.com/USC-InfoLab/w4h-integrated-toolkit/)
 
-      I am leading the development of an open-source toolkit to centralize real-time wearable data, aiming to improve healthcare data management.
+      * Led the development of the W4H Integrated Toolkit, an open-source toolkit centralizing both real-time and offline wearable data from various sources (e.g., Garmin, Apple Watch, Fitbit).
+      * Designed a scalable system architecture separating data engineering, analysis, and visualization.
+      * The toolkit comprises the following open-sourced tools:
+        <br><br/>
+        * [**StreamSim**](https://github.com/USC-InfoLab/StreamSim): Real-time data streaming simulator using Python and Flask.
 
-      * Developed a unified Geo-Referenced Multivariate Time-Series (GeoMTS) format to integrate data from various sources.
-      * Created scalable solutions using big data frameworks such as Spark and Kafka, and developed visualization dashboards for real-time analysis.
-      * This work has contributed to real-time outlier detection in healthcare data and supported the open-source community with [**custom tools**](https://github.com/search?q=topic%3Aw4h+org%3AUSC-InfoLab&type=Repositories).
+        * [**W4H ImportHub**](https://github.com/USC-InfoLab/W4H-ImportHub): Integrates stored datasets with Python, SQLAlchemy, and Streamlit.
+
+        * [**pyGarminAPI**](https://github.com/USC-InfoLab/pyGarminAPI): Python library for interacting with the Garmin API.
+
+        * [**Integrated Analytics Dashboard**](https://github.com/USC-InfoLab/w4h-integrated-toolkit/): Core component for data extraction and analysis using Streamlit, pandas, Flask, Spark, and Kafka.
+
+      * Released the toolkit in two modes: a Docker image for local setup and a centralized version on USC clusters.
 
       ##### Accurate EEG Seizure Detection and Classification
 
       I developed a GNN-based deep learning model to analyze brain correlations across spatial, semantic, and temporal dimensions using EEG signals.
 
-      * Utilized a dynamic graph that reflects dependencies in the brain for precise seizure classification.
-      * This work contributes to further understanding and advancements in the field of medical diagnostics.
+      * Designed and implemented a GNN-based model using PyTorch and PyTorch Geometric to dynamically model brain correlations using EEG signals.
+      * Utilized pretrained LLMS to enhance model performance, unveiling dynamic brain dependencies.
 
       
-      ##### [Accurate Point-of-Interest Visit Forecasting using GNNs](/publication/bysgnn/)
+      ##### [Learning Dynamic Graphs for Accurate Point-of-Interest Visit Forecasting](/publication/bysgnn/)
 
       Addressing the complex task of predicting visits to Points of Interest (POIs), I formulated the problem as a multivariate time-series forecasting challenge.
 
-      * Proposed the Busyness Graph Neural Network (BysGNN), uncovering multi-context correlations for accurate forecasting.
-      * Integrated temporal, spatial, and semantic signals, achieving significant improvement in forecasting accuracy over existing models, thereby contributing to real-world applications.
+      * Transformed the problem of predicting POI visits in the U.S. into a time-series forecasting task, leveraging multi-context correlations.
+      * Introduced BysGNN, a temporal graph neural network implemented using PyTorch.
+      * Utilized pretrained LLMS to optimize the model, achieving significant improvement in forecasting accuracy.
+
+
+      ##### Mentoring and Training
+      Trained and guided two undergraduate students on an academic project during the Summer of 2022, enhancing their research capabilities and ensuring project success. 
 
 
   - title: "Software R&D Intern"
@@ -64,10 +77,9 @@ experience:
     description: |
       **Responsibilities include:**
 
-      * Engineered and implemented sophisticated automated business processes, utilizing cutting-edge technologies and methodologies to enhance efficiency and accuracy.
-      * Translated high-level requirements into comprehensive functional specifications, devising detailed development plans that aligned with strategic objectives and technical constraints.
-      * Orchestrated and executed rigorous User Acceptance Testing (UAT), employing systematic testing strategies to identify and rectify errors, demonstrating a commitment to quality and continuous improvement.
-      * Conceptualized, designed, and developed intricate web forms in accordance with given specifications, leveraging modern web technologies and best practices to ensure compliance with business requirements.
+      * Engineered automated business processes using Python, Flask, and Selenium, enhancing efficiency.
+      * Conducted unit and integration testing using pytest and unittest libraries in Python.
+      * Developed interactive web dashboards using HTML, CSS, and JavaScript for enhanced user experience.
 
   - title: "Research: Design and Analysis of a Secure Smart-Card-Based Healthcare System"
     company: "Amirkabir University of Technology"
