@@ -54,9 +54,9 @@ abstract: Forecasting the number of visits to Points-of-Interest (POI) in an urb
   signals, we observe a significant improvement in our forecasting accuracy over state-of-the-art
   forecasting models in our experiments with real-world datasets across the United
   States.
-publication: '*arXiv*'
-doi: 10.48550/arXiv.2306.15927
+publication: "*ACM SIGSPATIAL '23*"
+doi: 10.1145/3589132.3625567
 links:
 - name: URL
-  url: http://arxiv.org/abs/2306.15927
+  url: https://dl.acm.org/doi/10.1145/3589132.3625567
 ---
