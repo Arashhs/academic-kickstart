@@ -28,6 +28,9 @@ education:
     - course: PhD in Computer Science
       institution: University of Southern California
       year: 2022 - Current
+    - course: MSc in Computer Science
+      institution: University of Southern California
+      year: 2022 - 2024
     - course: BSc in Computer Engineering
       institution: Amirkabir University of Technology, CGPA 19.28 / 20
       year: 2017 - 2021
